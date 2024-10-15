@@ -1,0 +1,7 @@
+train: /media/data/coco/person_yolo_from_coco2017/images/train
+val: /media/data/coco/person_yolo_from_coco2017/images/val
+
+#label duoc hieu la thu muc tuong ung
+# Classes
+names: 
+  0: person

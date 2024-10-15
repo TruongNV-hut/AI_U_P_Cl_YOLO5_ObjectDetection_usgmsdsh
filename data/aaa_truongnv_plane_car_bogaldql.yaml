@@ -1,0 +1,11 @@
+train: /media/Projects/AI_U_P_Cl_O_Y5_O_TrainNew_GPU_20240617/src/data/train_new/images/train
+val: /media/Projects/AI_U_P_Cl_O_Y5_O_TrainNew_GPU_20240617/src/data/train_new/images/val
+
+names: 
+  0: military truck - xe tải quân sự
+  1: civilian car - xe ô tô dân dụng
+  2: military tank - xe tăng quân sự
+  3: civilian aircraft - máy bay dân dụng
+  4: military aircraft - máy bay quân sự
+  5: military helicopter - trực thăng quân sự
+ 
